@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComboboxTransitionIssueTest", "ComboboxTransitionIssueTest\ComboboxTransitionIssueTest.csproj", "{2755E11C-C181-492B-8759-4B982F22AA68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComboboxTransitionIssueTest.Desktop", "ComboboxTransitionIssueTest.Desktop\ComboboxTransitionIssueTest.Desktop.csproj", "{647BF16D-1966-43AB-9E73-4438BB218DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2755E11C-C181-492B-8759-4B982F22AA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2755E11C-C181-492B-8759-4B982F22AA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2755E11C-C181-492B-8759-4B982F22AA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2755E11C-C181-492B-8759-4B982F22AA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647BF16D-1966-43AB-9E73-4438BB218DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647BF16D-1966-43AB-9E73-4438BB218DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647BF16D-1966-43AB-9E73-4438BB218DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647BF16D-1966-43AB-9E73-4438BB218DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6B8D9F-C533-4A93-A79A-0782B958D311}
+	EndGlobalSection
+EndGlobal
