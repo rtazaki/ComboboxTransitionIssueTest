@@ -37,7 +37,6 @@ public class MainViewModel : ViewModelBase
         set
         {
             this.RaiseAndSetIfChanged(ref _pageIndex, value);
-            _pageIndex = value;
             CurrentPage = PageNames[value].ViewModel;
         }
     }
